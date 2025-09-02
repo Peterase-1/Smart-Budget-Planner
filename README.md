@@ -2,10 +2,6 @@
 
 A modern, intuitive expense tracking and savings visualization application built with React. Take control of your finances with beautiful charts, smart insights, and goal tracking features.
 
-![React](https://img.shields.io/badge/React-19.1.0-blue.svg)
-![Vite](https://img.shields.io/badge/Vite-6.3.5-purple.svg)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.7-cyan.svg)
-
 ##  Features
 
 ###  **Dashboard Overview**
