@@ -1,44 +1,43 @@
-# 💰 Smart Budget Planner
+#  Smart Budget Planner
 
 A modern, intuitive expense tracking and savings visualization application built with React. Take control of your finances with beautiful charts, smart insights, and goal tracking features.
 
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![React](https://img.shields.io/badge/React-19.1.0-blue.svg)
 ![Vite](https://img.shields.io/badge/Vite-6.3.5-purple.svg)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.7-cyan.svg)
 
-## ✨ Features
+##  Features
 
-### 📊 **Dashboard Overview**
+###  **Dashboard Overview**
 - **Real-time Financial Summary**: Track total income, expenses, and savings at a glance
 - **Interactive Charts**: Visualize spending patterns with pie charts and savings trends with line charts
 - **Smart Insights**: AI-powered recommendations for better financial management
 - **Budget Alerts**: Get notified when you're approaching spending limits
 
-### 💵 **Income & Expense Management**
+###  **Income & Expense Management**
 - **Easy Transaction Entry**: Quick forms to add income and expenses
 - **Category Organization**: Pre-defined categories with custom icons and colors
 - **Date Range Filtering**: View data for specific time periods
 - **Monthly Growth Tracking**: Monitor income trends month-over-month
 
-### 📈 **Analytics & Reports**
+###  **Analytics & Reports**
 - **Detailed Reports**: Comprehensive analysis of your financial data
 - **Category Breakdown**: See where your money goes with visual breakdowns
 - **Savings Trends**: Track your savings progress over time
 - **Goal Progress**: Set and monitor financial goals
 
-### 🎯 **Goal Tracking**
+###  **Goal Tracking**
 - **Financial Goals**: Set savings targets and track progress
 - **Visual Progress Indicators**: Beautiful progress bars and charts
 - **Achievement Notifications**: Celebrate when you reach your goals
 
-### 🎨 **Modern UI/UX**
+###  **Modern UI/UX**
 - **Dark Theme**: Sleek black and green gradient design
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile
 - **Smooth Animations**: Engaging micro-interactions and transitions
 - **Accessibility**: Built with accessibility best practices
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -92,7 +91,7 @@ Make sure you have Node.js (version 16 or higher) installed on your machine.
 - **Embla Carousel** - Flexible carousel component
 - **Sonner** - Elegant toast notifications
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 smart-budget-planner/
@@ -130,14 +129,14 @@ smart-budget-planner/
 - **`npm run preview`** - Preview production build
 - **`npm run lint`** - Run ESLint for code quality
 
-## 💾 Data Storage
+##  Data Storage
 
 The application uses **localStorage** to persist your financial data locally in your browser. This means:
 
-- ✅ Your data stays private and secure on your device
-- ✅ No internet connection required
-- ✅ Fast performance with instant data access
-- ⚠️ Data is tied to your browser (clearing browser data will remove your information)
+-  Your data stays private and secure on your device
+-  No internet connection required
+-  Fast performance with instant data access
+-  Data is tied to your browser (clearing browser data will remove your information)
 
 ### Data Structure
 
@@ -147,16 +146,14 @@ The app stores the following types of data:
 - **Goals**: Financial targets and savings goals
 - **Settings**: User preferences and configuration
 
-## 🎨 UI Components
-
-This project uses [shadcn/ui](https://ui.shadcn.com/) components, which provide:
+##  UI Components
 
 - **Accessibility-first**: Built on Radix UI primitives
 - **Customizable**: Fully customizable with Tailwind CSS
 - **Type-safe**: Written in TypeScript (adaptable to JavaScript)
 - **Dark mode ready**: Supports theme switching
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The application is fully responsive and optimized for:
 
@@ -164,7 +161,7 @@ The application is fully responsive and optimized for:
 - **Tablet**: Optimized layout with collapsible sidebar
 - **Mobile**: Touch-friendly interface with drawer navigation
 
-## 🌟 Key Features Deep Dive
+##  Key Features Deep Dive
 
 ### Dashboard
 - Real-time financial overview with animated cards
@@ -190,7 +187,7 @@ The application is fully responsive and optimized for:
 - Achievement notifications
 - Goal completion celebrations
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] **Export functionality** - Export data to CSV/PDF
 - [ ] **Cloud sync** - Backup data to cloud storage
@@ -201,7 +198,7 @@ The application is fully responsive and optimized for:
 - [ ] **Mobile app** - React Native version
 - [ ] **AI insights** - Advanced financial advice using ML
 
-## 🤝 Contributing
+##  Contributing
 
 This is a personal learning project created during the INSA Summer Camp. If you'd like to contribute:
 
@@ -211,11 +208,9 @@ This is a personal learning project created during the INSA Summer Camp. If you'
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **INSA Summer Camp** - Backend Development Program
 - **shadcn/ui** - Beautiful UI component library
@@ -223,7 +218,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Recharts** - Awesome charting library for React
 - **Lucide** - Beautiful icon library
 
-## 📞 Support
+##  Support
 
 If you have any questions or need help with the project:
 
@@ -233,6 +228,5 @@ If you have any questions or need help with the project:
 
 ---
 
-**Made with ❤️ during INSA Summer Camp 2025**
 
 *Transform your financial future, one transaction at a time!* 🚀
